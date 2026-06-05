@@ -15,6 +15,7 @@ If a Scout drone completes its assigned coverage region and other drones retain 
 Mission state, detection metadata, and strip completion status are exchanged periodically and upon completion of each coverage strip, allowing consistent situational awareness and coordinated task allocation across the fleet. This cooperative strategy decouples detection and delivery responsibilities, ensuring efficient utilization of aerial resources, minimizing redundant coverage, and enabling scalable, fault-tolerant multi-drone disaster response operations.
 
 The proposed system demonstrates a scalable and reliable framework for autonomous human detection and targeted relief delivery in flood disaster scenarios.
+<img width="1280" height="851" alt="image" src="https://github.com/user-attachments/assets/f6d90bd1-2e9f-40fd-b296-384df3f34a74" />
 
 
 https://github.com/user-attachments/assets/9368470e-f5fe-4581-965b-b93d9443f2f3
